@@ -117,3 +117,7 @@ stk.updateState = function(newState) {
 stk.getState = function() {
   return stk.state;
 };
+stk.showcon = function(element) {
+    document.body.insertAdjacentHTML('beforeend', element);
+  };
+  

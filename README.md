@@ -1,6 +1,7 @@
 👋 Welcome to `stack.js`!
 
 **Status : Beta**
+
 `stack.js` is a lightweight JavaScript framework for building web applications. It provides a set of helpful functions for handling common tasks such as rendering, event listeners, element manipulation, lazy loading, and more.
 
 ## 📦 Installation
